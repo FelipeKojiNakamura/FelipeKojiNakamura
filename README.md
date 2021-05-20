@@ -4,15 +4,15 @@ Howdy, I'm a young man in Front-end programming with a purpose of trying to chan
 
 “I Don't Ever Give Up”
 
-Where can I find him🤔? This way!
+Where can I find him 🤔? This way!
 - \[matrix\]: [`@fipe:matrix.org`](https://matrix.to/#/@fipe:matrix.org)
 -  Mastodon: [`@Fipe@mastodon.social`](https://mastodon.social/@Fipe)
 
 ---
-## Goals
+## Goals 💡
 
 - Finish studying web designer
 - Create my own website
 - Finish studying programming logic
 
-Cya
+Cya 🙏
