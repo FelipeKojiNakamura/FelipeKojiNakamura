@@ -14,5 +14,6 @@ Where can I find him 🤔? This way!
 - Finish studying web designer
 - Create my own website
 - Finish studying programming logic
+- Finish studying digital marketing
 
 Cya 🙏
