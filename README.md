@@ -20,9 +20,9 @@ Howdy, I'm a young man in Front-end programming with a purpose of trying to chan
 ---
 ## What am I learning 🌱?
 
-HTML, CSS, JavaScript and Programming logic.
+HTML, CSS, JavaScript, and Programming logic.
 
 ---
 All made with love and coffee Cya 🙏
 
-[![forthebadge](https://forthebadge.com/images/badges/not-a-bug-a-feature.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/ages-12.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com)
