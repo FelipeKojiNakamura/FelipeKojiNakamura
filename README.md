@@ -2,7 +2,7 @@
 
 Howdy, I'm a young man in Front-end programming with a purpose of trying to change the world in which we live in a healthier internet as a paradise.
 
-“I Don't Ever Give Up”
+“Extend your mind, get out of the box, it's time to open, rules? Only the ones your heart tells you, do you think is right? So do it.” Koji, Felipe
 
 ---
 ## Where can I find him 🤔? This way!
