@@ -6,7 +6,7 @@ Howdy, I'm a young man in Front-end programming with a purpose of trying to chan
 
 ---
 ## Where can I find him 🤔? This way!
-- \[matrix\]: [`@fipe:mozilla.org`](https://matrix.to/#/@fipe:mozilla.org)
+- \[matrix\]: [`@felitrix:mozilla.org`](https://matrix.to/#/@felitrix:mozilla.org)
 -  Mastodon: [`@Fipe@mastodon.social`](https://mastodon.social/@Fipe)
 
 ---
